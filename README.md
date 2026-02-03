@@ -1,15 +1,13 @@
 # HR Analytics Dashboard – Workforce Attrition & Performance Insights
 
-Executive Summary:
+## Executive Summary
 
 Employee attrition has been higher than expected, increasing hiring costs and productivity loss. Using SQL, Python, and Power BI, I analyzed employee lifecycle data and built a dashboard to track attrition across departments, roles, and tenure.
 
 The analysis revealed that the greatest retention opportunities lie with early-tenure employees, particularly in lower compensation bands and specific roles. To reduce attrition and improve retention, I recommend:
-Implement structured 30–60–90 day onboarding and early feedback to reduce first-year attrition.
-
-Provide managers with role-level attrition dashboards to identify and address retention risks early.
-
-Review pay competitiveness and define clear growth paths for roles with consistently high turnover.
+- Implement structured 30–60–90 day onboarding and early feedback to reduce first-year attrition.
+- Provide managers with role-level attrition dashboards to identify and address retention risks early.
+- Review pay competitiveness and define clear growth paths for roles with consistently high turnover.
 
 ## Business Problem
 Employee attrition is costly and often preventable. HR teams frequently struggle with limited visibility into attrition drivers, reactive retention strategies, and a high volume of manual reporting requests.
