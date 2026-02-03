@@ -41,6 +41,12 @@ Because the greatest impact comes from improving early-stage employee experience
 3. Review pay competitiveness and define clear career growth paths for roles with consistently high turnover.
 4. These initiatives address the largest drivers of attrition, improve workforce stability, and reduce ad-hoc reporting for the analytics team.
 
+## Next Steps:
+
+1. Enhance onboarding and first-year engagement programs
+2. Provide managers with training on interpreting role-level attrition insights
+3. Monitor changes in retention and engagement metrics after implementing interventions
+
 
 
 
