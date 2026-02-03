@@ -1,11 +1,15 @@
 # HR Analytics Dashboard – Workforce Attrition & Performance Insights
 
-## Project Overview
-Creating an HR analytics dashboard gives HR leaders and business stakeholders visibility into the employee lifecycle funnel, both overall and across departments, job roles, and demographic segments. By democratizing access to workforce data, stakeholders are now able to self-serve insights, reducing dependency on ad-hoc reporting and allowing the analytics team to focus on higher-impact initiatives.
+Executive Summary:
 
-This project analyzes employee attrition, job satisfaction, compensation, and tenure trends using Power BI and Python-based modeling to identify the highest-impact levers for improving retention.
+Employee attrition has been higher than expected, increasing hiring costs and productivity loss. Using SQL, Python, and Power BI, I analyzed employee lifecycle data and built a dashboard to track attrition across departments, roles, and tenure.
 
----
+The analysis revealed that the greatest retention opportunities lie with early-tenure employees, particularly in lower compensation bands and specific roles. To reduce attrition and improve retention, I recommend:
+Implement structured 30–60–90 day onboarding and early feedback to reduce first-year attrition.
+
+Provide managers with role-level attrition dashboards to identify and address retention risks early.
+
+Review pay competitiveness and define clear growth paths for roles with consistently high turnover.
 
 ## Business Problem
 Employee attrition is costly and often preventable. HR teams frequently struggle with limited visibility into attrition drivers, reactive retention strategies, and a high volume of manual reporting requests.
