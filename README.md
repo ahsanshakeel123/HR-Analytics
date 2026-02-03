@@ -12,7 +12,7 @@ The analysis revealed that the greatest retention opportunities lie with early-t
 ## Business Problem
 Employee retention is critical for this organization since attrition directly impacts hiring costs, productivity, and business continuity. HR and leadership stakeholders have noticed that turnover is higher than expected, especially among early-tenure employees and certain roles. How can we determine where employees are most at risk of leaving and implement targeted initiatives to improve engagement and retention?
 
-# Methodology:
+## Methodology:
 
 1. SQL queries to extract, clean, and transform employee-level data from the HR database.
 
@@ -20,7 +20,7 @@ Employee retention is critical for this organization since attrition directly im
 
 3. A Python-based analysis to identify high-risk employee segments and simulate the impact of retention initiatives.
 
-# Skills:
+## Skills:
 
 SQL: CTEs, Joins, Case, Aggregate functions, Data cleaning and transformation
 
@@ -28,21 +28,19 @@ Power BI: DAX, Writing functions, ETL, Calculated columns, Data visualization, D
 
 Python: Pandas, NumPy, Matplotlib, Writing functions, Employee segmentation, Predictive analysis, Statistics
 
+## Results & Business Recommendation:
 
+Creating a dashboard to track employee attrition and performance gives HR and leadership stakeholders visibility into workforce trends both overall and by department, role, and tenure. By democratizing this data, stakeholders are now able to self-serve insights, and the analytics team saves 4–6 hours per week on ad-hoc reporting.
 
+The analysis showed that nearly 50% of attrition occurs within the first few years of employment, with early-tenure employees and specific roles representing the highest risk. According to the Python-based analysis, even a 1% improvement in engagement and retention among high-risk groups can lead to meaningful cost savings by reducing hiring, onboarding, and productivity loss.
 
+Because the greatest impact comes from improving early-stage employee experience and retention, I recommend the following actions:
 
+1. Implement structured 30–60–90 day onboarding and early feedback programs to improve first-year engagement.
+2. Provide managers with role-level attrition dashboards to proactively identify and address retention risks.
+3. Review pay competitiveness and define clear career growth paths for roles with consistently high turnover.
+4. These initiatives address the largest drivers of attrition, improve workforce stability, and reduce ad-hoc reporting for the analytics team.
 
-
-## Recommendations
-Because the greatest business impact comes from improving early-stage employee engagement and retention, the following actions are recommended:
-
-- Strengthen onboarding and first-year engagement programs
-- Equip managers with role-level attrition insights
-- Review compensation and career progression for high-risk roles
-- Use the dashboard as an ongoing self-service monitoring tool
-
-These initiatives address the largest attrition drivers, improve workforce stability, and continue to save the analytics team time through reduced reporting requests.
 
 
 
